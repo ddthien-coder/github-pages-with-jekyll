@@ -1,5 +1,9 @@
 ---
-title: "Welcome to my blog"
+title: "Đinh Đức Thiện"
 ---
 
-I'm glad you are here. I plan to talk about ...
+---
+description: "Welcome to myblog"
+---
+
+Hi, I'm Đinh Đức Thiện, currently I'm working on OF1 Communiy in Hai Phong City
